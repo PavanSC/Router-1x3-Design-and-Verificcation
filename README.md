@@ -1,0 +1,1 @@
+This project involves designing and verifying a 1x3 router module. The router directs data from a single input to one of three possible output channels based on a 2-bit control signal. The verification environment includes a scoreboard and coverage metrics to ensure comprehensive testing of the router functionality.
